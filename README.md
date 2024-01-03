@@ -1,1 +1,1 @@
-Hi, I’m @xqrcx
+Hi, I’m xqrcx
