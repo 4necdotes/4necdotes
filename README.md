@@ -1,4 +1,4 @@
-### こんにちわ！
+### Hello~~!!!!👋
 15歳のぷろぐらまです！すべて独学で8歳からHTML、10歳からCSSを書いています
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
