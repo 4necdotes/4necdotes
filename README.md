@@ -1,5 +1,5 @@
-### Hello~~!!!!👋 I'm なるは（nqruha_）
-🇯🇵JAPAN '08(15y)
+### Hello~~!👋 I'm なるは（nqruha_）
+🇯🇵08 高校生
 enfp-t
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
