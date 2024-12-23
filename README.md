@@ -2,7 +2,7 @@
 
 🧑‍💻 Hello I'm 4necdotes, a 16-year-old programmer from Japan.
 
-こんにちは。4necdotes（あねくどーつ）と申します。日本の１６歳ぷろぐらまーです。
+こんにちは。4necdotesと申します。日本の１６歳ぷろぐらまーです。
 
 ## 💻 Tech Skills
 HTML (since I was 7)
