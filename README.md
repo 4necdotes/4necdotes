@@ -1,4 +1,4 @@
-# 4necdotes.
+# 4necdotes
 
 🧑‍💻 Hello I'm 4necdotes, a 16-year-old programmer from Japan.
 
