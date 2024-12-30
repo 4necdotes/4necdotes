@@ -1,6 +1,6 @@
-# Miya
+# Hello! I'm Miya
 
-🧑‍💻 Hello I'm Miya, a 16-year-old programmer from Japan.
+🧑‍💻 Hello! I'm Miya, a 16-year-old programmer from Japan.
 
 こんにちは。みやと申します。日本の１６歳ぷろぐらまーです。
 
