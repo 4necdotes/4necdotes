@@ -1,8 +1,8 @@
-# 4necdotes
+# Miya
 
-🧑‍💻 Hello I'm 4necdotes, a 16-year-old programmer from Japan.
+🧑‍💻 Hello I'm Miya, a 16-year-old programmer from Japan.
 
-こんにちは。4necdotesと申します。日本の１６歳ぷろぐらまーです。
+こんにちは。みやと申します。日本の１６歳ぷろぐらまーです。
 
 ## 💻 Tech Skills
 HTML (since I was 7)
@@ -23,7 +23,7 @@ CSS, JavaScript, Python
  
 **15歳**　**「読めないユーザーネームメーカー」** を制作、一般公開
 
-　｜　　**↑ 月間PV 7.5万以上・総アクセス50万以上**（2024.12月時点)
+　｜　　**↑ 月間PV 7.5万以上・総アクセス50万以上**（2024年時点)
  
 　｜
 
